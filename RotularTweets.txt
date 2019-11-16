@@ -1,0 +1,1 @@
+Rotular os tweets em Negativo (0), Positivo (1), Neutro (2).
